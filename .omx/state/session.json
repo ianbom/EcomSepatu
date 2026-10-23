@@ -1,0 +1,14 @@
+{
+  "session_id": "01a16869-2ee3-7053-87c3-badaa1e58afe",
+  "native_session_id": "01a16869-2ee3-7053-87c3-badaa1e58afe",
+  "started_at": "2026-10-23T10:58:37.500Z",
+  "cwd": "E:\\Webgrow\\SepatiWeb",
+  "state_root": "E:\\Webgrow\\SepatiWeb\\.omx\\state",
+  "pid": 1560,
+  "platform": "win32",
+  "identity_schema_version": 2,
+  "process_identity": {
+    "platform": "win32",
+    "birth": "134372068066852032"
+  }
+}

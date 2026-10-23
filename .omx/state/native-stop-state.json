@@ -1,0 +1,14 @@
+{
+  "sessions": {
+    "01a16869-2ee3-7053-87c3-badaa1e58afe": {
+      "ordinary_no_progress_guard": {
+        "fingerprint": "ordinary|checkout dan konfirmasi kini berbahasa inggris seluruhnya, termasuk validasi dan empty state. - banner serta label demo/simulasi/dummy dihapus. - cta menjadi **place order**; metode pembayaran memakai label retail netral. - harga, ongkir, cart, dan alur pesanan tetap. - verifikasi lulus: lint, typecheck, build, **8 unit test**, **25 playwright test**, termasuk lima ukuran layar. file utama: `src/components/checkout-form.tsx:19`, `src/data/checkout.ts:7`. preview: `http://127.0.0.1:3187/checkout`.",
+        "first_seen_at": "2026-10-23T13:16:46.662Z",
+        "last_seen_at": "2026-10-23T13:16:46.662Z",
+        "repeat_count": 1,
+        "last_turn_id": "01a168de-cd5d-7173-84d1-5e06273adc5e",
+        "last_thread_id": null
+      }
+    }
+  }
+}

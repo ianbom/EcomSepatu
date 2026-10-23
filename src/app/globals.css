@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import "./storefront.css";
+@import "./product.css";
+@import "./responsive.css";
+@import "./checkout.css";
